@@ -1,6 +1,8 @@
-```bash
+install [chocotaley](https://chocolatey.org/install)
+let choco install some apps
+```
 choco install googlechrome git hyper discord python atom microsoft-edge plexmediaplayer kite 7zip
-manual install 
+manual install
 ```
 ## manual installs
 [battle.net](https://www.blizzard.com/download/confirmation?platform=windows&locale=de_DE&product=bnetdesk)
