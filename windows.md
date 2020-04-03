@@ -1,7 +1,7 @@
 install [chocotaley](https://chocolatey.org/install)
 let choco install some apps
 ```
-choco install github tidal git hyper discord-canary python atom microsoft-edge plexmediaplayer kite 7zip vim mpv transmission windowgrid autohotkey origin explorerplusplus leagueoflegends -y
+choco install github tidal git hyper discord-canary python atom microsoft-edge plexmediaplayer 7zip vim mpv transmission windowgrid autohotkey origin explorerplusplus leagueoflegends -y
 ```
 ## manual installs
 [battle.net](https://www.blizzard.com/download/confirmation?platform=windows&locale=de_DE&product=bnetdesk)
