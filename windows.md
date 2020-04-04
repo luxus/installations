@@ -1,7 +1,7 @@
 install [chocotaley](https://chocolatey.org/install)
 let choco install some apps
 ```
-choco install github tidal git hyper discord-canary python atom microsoft-edge plexmediaplayer 7zip vim mpv transmission windowgrid autohotkey origin explorerplusplus leagueoflegends -y
+choco install steam javaruntime github tidal git cmder discord-canary python vscode-insiders microsoft-edge-insider-dev plex 7zip vim doublecmd mpv transmission windowgrid autohotkey origin explorerplusplus leagueoflegends -y
 ```
 ## manual installs
 [battle.net](https://www.blizzard.com/download/confirmation?platform=windows&locale=de_DE&product=bnetdesk)
@@ -26,5 +26,5 @@ https://github.com/romkatv/powerlevel10k-media/
 [POE Trades Companion](https://github.com/lemasato/POE-Trades-Companion/releases)
 [poeagregator](https://github.com/cpieprzak/PoeAggregator/releases)
 alacritty config location
-
-C:\Users\Kai\AppData\Roaming\alacritty
+git config --global user.email "luxuspur@gmail.com"
+git config --global user.name "Kai Löhnert"
